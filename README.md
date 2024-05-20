@@ -1,1 +1,1 @@
-This respository contains how to create a Ecommerce website.
+This respository contains how to create an Ecommerce website.
